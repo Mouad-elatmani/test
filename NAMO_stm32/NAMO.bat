@@ -1,0 +1,4 @@
+
+set MATLAB=E:\matlab
+
+"%MATLAB%\bin\%MATLAB_WIN_VER%\gmake" -f NAMO.mk  GENERATE_ASAP2=0 OPTS="-DTID01EQ=0"

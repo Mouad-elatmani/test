@@ -1,0 +1,3 @@
+config load "C:\Users\Original Shop\OneDrive-Zahi JARIR\Desktop\T\NAMO\NAMO.ioc"
+project generate ui
+exit wait

@@ -1,0 +1,218 @@
+This file is the manifest for the generated code from model 'NAMO'.
+C:\Users\Original Shop\OneDrive-Zahi JARIR\Desktop\T\NAMO\NAMO_stm32\NAMO.c
+C:\Users\Original Shop\OneDrive-Zahi JARIR\Desktop\T\NAMO\NAMO_stm32\NAMO_ADC.c
+C:\Users\Original Shop\OneDrive-Zahi JARIR\Desktop\T\NAMO\NAMO_stm32\NAMO_DAC.c
+C:\Users\Original Shop\OneDrive-Zahi JARIR\Desktop\T\NAMO\NAMO_stm32\NAMO_data.c
+C:\Users\Original Shop\OneDrive-Zahi JARIR\Desktop\T\NAMO\NAMO_stm32\main.c
+C:\Users\Original Shop\OneDrive-Zahi JARIR\Desktop\T\NAMO\NAMO_stm32\rtGetInf.c
+C:\Users\Original Shop\OneDrive-Zahi JARIR\Desktop\T\NAMO\NAMO_stm32\rtGetNaN.c
+C:\Users\Original Shop\OneDrive-Zahi JARIR\Desktop\T\NAMO\NAMO_stm32\rt_nonfinite.c
+C:\Users\Original Shop\OneDrive-Zahi JARIR\Desktop\T\NAMO\NAMO_stm32\stm32xxxx_it.c
+E:\matlab\rtw\c\src\common\rt_main.c
+C:\Users\Original Shop\OneDrive-Zahi JARIR\Desktop\T\NAMO\NAMO_stm32\rtGetInf.h
+C:\Users\Original Shop\OneDrive-Zahi JARIR\Desktop\T\NAMO\NAMO_stm32\rtGetNaN.h
+C:\Users\Original Shop\OneDrive-Zahi JARIR\Desktop\T\NAMO\NAMO_stm32\rt_nonfinite.h
+C:\Users\Original Shop\OneDrive-Zahi JARIR\Desktop\T\NAMO\NAMO_stm32\NAMO.h
+C:\Users\Original Shop\OneDrive-Zahi JARIR\Desktop\T\NAMO\NAMO_stm32\NAMO_ADC.h
+C:\Users\Original Shop\OneDrive-Zahi JARIR\Desktop\T\NAMO\NAMO_stm32\NAMO_DAC.h
+C:\Users\Original Shop\OneDrive-Zahi JARIR\Desktop\T\NAMO\NAMO_stm32\NAMO_External_Functions.h
+C:\Users\Original Shop\OneDrive-Zahi JARIR\Desktop\T\NAMO\NAMO_stm32\NAMO_private.h
+C:\Users\Original Shop\OneDrive-Zahi JARIR\Desktop\T\NAMO\NAMO_stm32\NAMO_types.h
+C:\Users\Original Shop\OneDrive-Zahi JARIR\Desktop\T\NAMO\NAMO_stm32\STM32_Config.h
+C:\Users\Original Shop\OneDrive-Zahi JARIR\Desktop\T\NAMO\NAMO_stm32\rtwtypes.h
+E:\matlab\rtw\c\src\bio_sig.h
+E:\matlab\rtw\c\src\cg_matrx.h
+E:\matlab\rtw\c\src\cg_sfun.h
+E:\matlab\rtw\c\src\dt_info.h
+E:\matlab\rtw\c\src\mdl_info.h
+E:\matlab\rtw\c\src\odesup.h
+E:\matlab\rtw\c\src\pt_info.h
+E:\matlab\rtw\c\src\rt_logging.h
+E:\matlab\rtw\c\src\rt_logging_mmi.h
+E:\matlab\rtw\c\src\rt_logging_simtarget.h
+E:\matlab\rtw\c\src\rt_math.h
+E:\matlab\rtw\c\src\rt_matrx.h
+E:\matlab\rtw\c\src\rt_mxclassid.h
+E:\matlab\rtw\c\src\rt_sim.h
+E:\matlab\rtw\c\src\rtmcmacros.h
+E:\matlab\rtw\c\src\rtmmacros.h
+E:\matlab\rtw\c\src\rtsplntypes.h
+E:\matlab\rtw\c\src\rtw_capi.h
+E:\matlab\rtw\c\src\rtw_capi_examples.h
+E:\matlab\rtw\c\src\rtw_linux.h
+E:\matlab\rtw\c\src\rtw_linux_mac.h
+E:\matlab\rtw\c\src\rtw_modelmap.h
+E:\matlab\rtw\c\src\rtw_modelmap_logging.h
+E:\matlab\rtw\c\src\rtw_modelmap_simtarget.h
+E:\matlab\rtw\c\src\rtw_msvc_lshift.h
+E:\matlab\rtw\c\src\rtw_windows.h
+E:\matlab\rtw\c\src\sfcn_bridge.h
+E:\matlab\extern\include\blas.h
+E:\matlab\extern\include\blascompat32.h
+E:\matlab\extern\include\covrt.h
+E:\matlab\extern\include\cvstCG_ComputeMetric.h
+E:\matlab\extern\include\cvstCG_acfObjectDetector.h
+E:\matlab\extern\include\cvstCG_disparitySGM.h
+E:\matlab\extern\include\cvstCG_foregroundDetector.h
+E:\matlab\extern\include\cvstCG_kdtree.h
+E:\matlab\extern\include\cvstCG_ocrutils.h
+E:\matlab\extern\include\cvstCG_searchOrganizedPointCloud.h
+E:\matlab\extern\include\cvstCG_voxelGridFilter.h
+E:\matlab\extern\include\emlrt.h
+E:\matlab\extern\include\engine.h
+E:\matlab\extern\include\fintrf.h
+E:\matlab\extern\include\io64.h
+E:\matlab\extern\include\lapack.h
+E:\matlab\extern\include\lapacke.h
+E:\matlab\extern\include\lapacke_config.h
+E:\matlab\extern\include\libmwboxfilter.h
+E:\matlab\extern\include\libmwboxfilter3.h
+E:\matlab\extern\include\libmwbwdistEDT.h
+E:\matlab\extern\include\libmwbwdistEDTFT.h
+E:\matlab\extern\include\libmwbwdistEDTFT_tbb.h
+E:\matlab\extern\include\libmwbwdistEDT_tbb.h
+E:\matlab\extern\include\libmwbwlookup.h
+E:\matlab\extern\include\libmwbwlookup_tbb.h
+E:\matlab\extern\include\libmwbwpackc.h
+E:\matlab\extern\include\libmwbwpackctbb.h
+E:\matlab\extern\include\libmwbwunpackc.h
+E:\matlab\extern\include\libmwbwunpackctbb.h
+E:\matlab\extern\include\libmwcannythresholding_tbb.h
+E:\matlab\extern\include\libmwddist.h
+E:\matlab\extern\include\libmwedgesobelprewitt_tbb.h
+E:\matlab\extern\include\libmwedgethinning_tbb.h
+E:\matlab\extern\include\libmwgetnumcores.h
+E:\matlab\extern\include\libmwgrayto16.h
+E:\matlab\extern\include\libmwgrayto8.h
+E:\matlab\extern\include\libmwgrayxform.h
+E:\matlab\extern\include\libmwgrayxform_tbb.h
+E:\matlab\extern\include\libmwimfilter.h
+E:\matlab\extern\include\libmwimlincomb.h
+E:\matlab\extern\include\libmwimlincomb_tbb.h
+E:\matlab\extern\include\libmwimreconstruct.h
+E:\matlab\extern\include\libmwimregionalmax.h
+E:\matlab\extern\include\libmwimterp2d.h
+E:\matlab\extern\include\libmwint16touint16.h
+E:\matlab\extern\include\libmwint32touint32.h
+E:\matlab\extern\include\libmwint8touint8.h
+E:\matlab\extern\include\libmwintlut.h
+E:\matlab\extern\include\libmwintluttbb.h
+E:\matlab\extern\include\libmwippfilter.h
+E:\matlab\extern\include\libmwippgeotrans.h
+E:\matlab\extern\include\libmwippmedianfilter.h
+E:\matlab\extern\include\libmwippreconstruct.h
+E:\matlab\extern\include\libmwjpegreader.h
+E:\matlab\extern\include\libmwmorphop_binary.h
+E:\matlab\extern\include\libmwmorphop_binary_tbb.h
+E:\matlab\extern\include\libmwmorphop_flat.h
+E:\matlab\extern\include\libmwmorphop_flat_tbb.h
+E:\matlab\extern\include\libmwmorphop_ipp.h
+E:\matlab\extern\include\libmwmorphop_nonflat.h
+E:\matlab\extern\include\libmwmorphop_nonflat_tbb.h
+E:\matlab\extern\include\libmwmorphop_packed.h
+E:\matlab\extern\include\libmwordfilt2.h
+E:\matlab\extern\include\libmwremap.h
+E:\matlab\extern\include\libmwremaptbb.h
+E:\matlab\extern\include\libmwrgb2gray_tbb.h
+E:\matlab\extern\include\libmwrgb2hsv_tbb.h
+E:\matlab\extern\include\libmwtbbhist.h
+E:\matlab\extern\include\libmwuint16toint16.h
+E:\matlab\extern\include\mat.h
+E:\matlab\extern\include\matrix.h
+E:\matlab\extern\include\mclbase.h
+E:\matlab\extern\include\mclcom.h
+E:\matlab\extern\include\mclcomclass.h
+E:\matlab\extern\include\mclcommain.h
+E:\matlab\extern\include\mclcppclass.h
+E:\matlab\extern\include\mclmcr.h
+E:\matlab\extern\include\mclmcrrt.h
+E:\matlab\extern\include\mclxlmain.h
+E:\matlab\extern\include\mcr.h
+E:\matlab\extern\include\mex.h
+E:\matlab\extern\include\mwmathutil.h
+E:\matlab\extern\include\mwservices.h
+E:\matlab\extern\include\mwslpointerutil.h
+E:\matlab\extern\include\mwstringutil.h
+E:\matlab\extern\include\polygonBoolean.h
+E:\matlab\extern\include\tmwtypes.h
+E:\matlab\extern\include\MatlabCppSharedLib.hpp
+E:\matlab\extern\include\MatlabDataArray.hpp
+E:\matlab\extern\include\MatlabEngine.hpp
+E:\matlab\extern\include\MatlabExecutionInterface.hpp
+E:\matlab\extern\include\MatlabTypesInterface.hpp
+E:\matlab\extern\include\mex.hpp
+E:\matlab\extern\include\mexAdapter.hpp
+E:\matlab\extern\include\opencvgpumex.hpp
+E:\matlab\extern\include\opencvmex.hpp
+E:\matlab\simulink\include\cgxeooprt.h
+E:\matlab\simulink\include\cgxert.h
+E:\matlab\simulink\include\fixedpoint.h
+E:\matlab\simulink\include\fixpoint_spec.h
+E:\matlab\simulink\include\i18n_c_api.h
+E:\matlab\simulink\include\libmwslsa_sim.h
+E:\matlab\simulink\include\rtw_continuous.h
+E:\matlab\simulink\include\rtw_extmode.h
+E:\matlab\simulink\include\rtw_matlogging.h
+E:\matlab\simulink\include\rtw_matlogging_simtarget.h
+E:\matlab\simulink\include\rtw_solver.h
+E:\matlab\simulink\include\rtw_storage.h
+E:\matlab\simulink\include\sfcn_loader_c_api.h
+E:\matlab\simulink\include\sigmapdef_sfcn.h
+E:\matlab\simulink\include\sigregdef.h
+E:\matlab\simulink\include\sigstream_rtw.h
+E:\matlab\simulink\include\simlogCIntrf.h
+E:\matlab\simulink\include\simstruc.h
+E:\matlab\simulink\include\simstruc_64_internal.h
+E:\matlab\simulink\include\simstruc_compcond.h
+E:\matlab\simulink\include\simstruc_debug.h
+E:\matlab\simulink\include\simstruc_def.h
+E:\matlab\simulink\include\simstruc_implement.h
+E:\matlab\simulink\include\simstruc_internal.h
+E:\matlab\simulink\include\simstruc_internal_types.h
+E:\matlab\simulink\include\simstruc_types.h
+E:\matlab\simulink\include\simulink.h
+E:\matlab\simulink\include\simulink2.h
+E:\matlab\simulink\include\simulink_solver_api.h
+E:\matlab\simulink\include\slImageTypes.h
+E:\matlab\simulink\include\sl_common_types_def.h
+E:\matlab\simulink\include\sl_datatype_access.h
+E:\matlab\simulink\include\sl_fileio_rtw.h
+E:\matlab\simulink\include\sl_fixpt.h
+E:\matlab\simulink\include\sl_prodhwdevicetype.h
+E:\matlab\simulink\include\sl_report_types.h
+E:\matlab\simulink\include\sl_sample_time_defs.h
+E:\matlab\simulink\include\sl_sfcn_st_api.h
+E:\matlab\simulink\include\sl_solver_rtw.h
+E:\matlab\simulink\include\sl_types_def.h
+E:\matlab\simulink\include\slccrt.h
+E:\matlab\simulink\include\slexec_block_runtime_service.h
+E:\matlab\simulink\include\slexec_parallel.h
+E:\matlab\simulink\include\slexec_simbridge.h
+E:\matlab\simulink\include\slexec_simstruct_bridge.h
+E:\matlab\simulink\include\slexec_ssExecutionInfo.h
+E:\matlab\simulink\include\slexec_vm_lookup_functions.h
+E:\matlab\simulink\include\slexec_vm_rt_functions.h
+E:\matlab\simulink\include\slexec_vm_simstruct_bridge.h
+E:\matlab\simulink\include\slexec_vm_zc_functions.h
+E:\matlab\simulink\include\slsa_sim_engine.h
+E:\matlab\simulink\include\slsv_diagnostic_codegen_c_api.h
+E:\matlab\simulink\include\slsv_diagnostic_deployment_c_api.h
+E:\matlab\simulink\include\slsv_diagnostic_logger_type.h
+E:\matlab\simulink\include\slsv_mexhelper.h
+E:\matlab\simulink\include\solver_zc.h
+E:\matlab\simulink\include\sysran_types.h
+E:\matlab\simulink\include\sfun_rtwcg.hpp
+E:\matlab\rtw\c\src\ext_mode\common\ext_share.h
+E:\matlab\rtw\c\src\ext_mode\common\ext_svr.h
+E:\matlab\rtw\c\src\ext_mode\common\ext_svr_transport.h
+E:\matlab\rtw\c\src\ext_mode\common\ext_test.h
+E:\matlab\rtw\c\src\ext_mode\common\ext_types.h
+E:\matlab\rtw\c\src\ext_mode\common\ext_work.h
+E:\matlab\rtw\c\src\ext_mode\common\mem_mgr.h
+E:\matlab\rtw\c\src\ext_mode\common\updown.h
+E:\matlab\rtw\c\src\ext_mode\common\updown_util.h
+E:\matlab\rtw\c\src\ext_mode\common\upsup_public.h
+E:\matlab\STM32-MAT\STM32\addSrc\inc\getBuffPtr.h
+C:\Users\Original Shop\OneDrive-Zahi JARIR\Desktop\T\NAMO\NAMO_stm32\defines.txt
+C:\Users\Original Shop\OneDrive-Zahi JARIR\Desktop\T\NAMO\NAMO_stm32\html
+C:\Users\Original Shop\OneDrive-Zahi JARIR\Desktop\T\NAMO\NAMO_stm32\NAMO_manifest.txt

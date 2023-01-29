@@ -1,0 +1,6 @@
+[ProjectFiles]
+HeaderPath=C:\Users\Original Shop\OneDrive-Zahi JARIR\Desktop\T\NAMO\Drivers\CMSIS\Core\Include;C:\Users\Original Shop\OneDrive-Zahi JARIR\Desktop\T\NAMO\Drivers\CMSIS\DSP\Include;C:\Users\Original Shop\OneDrive-Zahi JARIR\Desktop\T\NAMO\NAMO\Inc;E:\matlab\simulink\include;
+[Groups]
+MATLAB=C:\Users\Original Shop\OneDrive-Zahi JARIR\Desktop\T\NAMO\NAMO\Src\NAMO.c;C:\Users\Original Shop\OneDrive-Zahi JARIR\Desktop\T\NAMO\NAMO\Src\NAMO_ADC.c;C:\Users\Original Shop\OneDrive-Zahi JARIR\Desktop\T\NAMO\NAMO\Src\NAMO_DAC.c;C:\Users\Original Shop\OneDrive-Zahi JARIR\Desktop\T\NAMO\NAMO\Src\NAMO_data.c;C:\Users\Original Shop\OneDrive-Zahi JARIR\Desktop\T\NAMO\NAMO\Src\rtGetInf.c;C:\Users\Original Shop\OneDrive-Zahi JARIR\Desktop\T\NAMO\NAMO\Src\rtGetNaN.c;C:\Users\Original Shop\OneDrive-Zahi JARIR\Desktop\T\NAMO\NAMO\Src\rt_nonfinite.c;
+[Others]
+Define=MEM_UNIT_BYTES;ARM_MATH_CM4;MemUnit_T:uint8_T;MATLAB_PROJECT;
